@@ -1,0 +1,41 @@
+[33mcommit b7ced8fd89ed60d74ee88523decb7498000bda9b[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: SOpata_Rafał <sopaciak@gmail.com>
+Date:   Wed Jun 2 13:47:26 2021 +0200
+
+    Pierwszy uzytkownik
+
+[33mcommit dda7bec5e77fe235a51efd1dab742699c21d7ce9[m[33m ([m[1;31morigin/master[m[33m, [m[1;32mlogowanie[m[33m)[m
+Author: SOpata_Rafał <sopaciak@gmail.com>
+Date:   Wed Jun 2 13:17:45 2021 +0200
+
+    Logowanie2
+
+[33mcommit c74f20b9e645c0b81fb2ae5dbdaa00dec50ce1a9[m
+Author: SOpata_Rafał <sopaciak@gmail.com>
+Date:   Wed Jun 2 13:15:26 2021 +0200
+
+    Logowanie
+
+[33mcommit 2b43385ad291f5846ad94ed79a78889cc50ade69[m
+Author: SOpata_Rafał <sopaciak@gmail.com>
+Date:   Wed Jun 2 13:12:51 2021 +0200
+
+    Czwarty commit- edycja pliku 2, edycja pliku 3
+
+[33mcommit 650521f637623641c883644192aca9b718caa27d[m
+Author: SOpata_Rafał <sopaciak@gmail.com>
+Date:   Wed Jun 2 13:09:15 2021 +0200
+
+    Trzeci commit- edycja pliku 1.txt
+
+[33mcommit 9fa1d70cafe0cee6198235dd912d6d02c65dbb7e[m
+Author: SOpata_Rafał <sopaciak@gmail.com>
+Date:   Wed Jun 2 13:06:55 2021 +0200
+
+    Drugi commit- przesłanie trzech plików do repozytorium
+
+[33mcommit c7932b6a0b335bde68207d7124e86bb61539b672[m
+Author: SOpata_Rafał <sopaciak@gmail.com>
+Date:   Wed Jun 2 13:05:03 2021 +0200
+
+    Pierwszy commit - dodanie pliku 1.txt
